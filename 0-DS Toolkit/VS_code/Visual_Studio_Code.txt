@@ -1,0 +1,3 @@
+Instalación y ejecución de archivos Python en VS Code:
+
+https://code.visualstudio.com/docs/python/python-tutorial
